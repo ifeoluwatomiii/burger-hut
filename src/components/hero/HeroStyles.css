@@ -1,0 +1,30 @@
+.hero{
+    width: 93%;
+    height: 90vh;
+    background: url('../../assets/pexel3.jpg') no-repeat center center/cover;
+    color: white;
+    padding: 50px 70px;
+    overflow: hidden;
+}
+
+.hero-container{
+    max-width: 1200px;
+    margin:auto;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    
+}
+
+.contents{
+    border-left: 10px solid #f8f8f8;
+    padding-left: 2rem;
+    margin-top:10%;
+}
+
+.hero .btn{
+    margin: 1rem 1rem 1rem 0;
+    width: 200px;
+}
+
+ 
